@@ -1,0 +1,9 @@
+D:\Pliki\Visual Studio\TCP test\TCP test\bin\Debug\TCP test.exe.config
+D:\Pliki\Visual Studio\TCP test\TCP test\obj\Debug\TCP test.csprojResolveAssemblyReference.cache
+D:\Pliki\Visual Studio\TCP test\TCP test\obj\Debug\TCP_test.Form1.resources
+D:\Pliki\Visual Studio\TCP test\TCP test\obj\Debug\TCP_test.Properties.Resources.resources
+D:\Pliki\Visual Studio\TCP test\TCP test\obj\Debug\TCP test.csproj.GenerateResource.Cache
+D:\Pliki\Visual Studio\TCP test\TCP test\bin\Debug\TCP test.exe
+D:\Pliki\Visual Studio\TCP test\TCP test\bin\Debug\TCP test.pdb
+D:\Pliki\Visual Studio\TCP test\TCP test\obj\Debug\TCP test.exe
+D:\Pliki\Visual Studio\TCP test\TCP test\obj\Debug\TCP test.pdb

@@ -1,0 +1,18 @@
+name: idk
+version: 0.1.0
+
+authors:
+  -  <>
+
+targets:
+  idk:
+    main: src/idk.cr
+
+dependencies:
+  icr:
+    github: crystal-community/icr
+    branch: master
+
+crystal: 0.23.1
+
+license: MIT

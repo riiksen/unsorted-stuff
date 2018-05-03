@@ -1,0 +1,406 @@
+[CET 2018:01:05 19:36:31] Daemon started.
+
+[CET 2018:01:05 20:28:52] Daemon stopped.
+
+[CET 2018:01:05 20:30:44] Daemon stopped.
+
+[CET 2018:01:05 22:36:15] Daemon started.
+
+[CET 2018:01:05 23:04:23] Daemon stopped.
+
+[CET 2018:01:05 23:27:24] Daemon started.
+
+[CET 2018:01:05 23:31:26] Daemon stopped.
+
+[CET 2018:01:05 23:33:38] Daemon started.
+
+[CET 2018:01:06 13:53:18] 2
+
+[CET 2018:01:06 19:13:19] 1
+
+[CET 2018:01:07 11:55:12] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 11:57:14] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 11:59:16] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 12:01:17] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 12:03:19] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 12:05:20] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 12:07:22] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 12:09:23] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 12:11:25] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 12:13:26] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 12:15:28] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 12:17:29] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 12:19:30] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 12:21:31] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 12:23:32] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 12:25:33] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 12:27:34] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 12:29:36] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 12:31:37] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 12:33:38] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 12:35:39] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 12:37:41] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 12:39:42] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 12:41:45] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 12:43:46] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 12:45:47] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 12:47:49] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 12:49:50] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 12:51:51] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 12:53:53] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 12:55:54] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 12:57:55] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 12:59:56] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 13:01:57] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 13:03:58] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 13:06:00] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 13:08:02] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 13:10:04] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 13:12:05] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 13:14:07] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 13:16:08] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 13:18:11] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 13:20:13] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 13:22:14] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 13:24:16] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 13:26:18] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 13:28:19] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 13:30:20] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 13:32:21] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 13:34:23] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 13:36:24] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 13:38:25] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 13:40:26] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 13:42:27] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 13:44:28] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 13:46:29] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 13:48:30] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 13:50:31] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 13:52:32] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 13:54:33] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 13:56:35] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 13:58:36] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 14:00:37] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 14:02:38] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 14:04:40] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 14:06:41] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 14:08:42] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 14:10:43] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 14:12:44] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 14:14:45] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 14:16:47] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 14:18:49] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 14:20:50] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 14:22:51] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 14:24:52] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 14:26:54] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 14:28:55] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 14:30:56] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 14:32:57] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 14:34:58] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 14:37:00] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 14:39:01] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 14:41:02] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 14:43:03] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 14:45:10] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 14:47:14] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 14:49:15] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 14:51:16] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 14:53:17] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 14:55:18] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 14:57:20] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 14:59:21] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 15:01:22] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 15:03:23] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 15:05:25] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 15:07:26] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 15:09:27] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 15:11:29] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 15:13:30] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 15:15:31] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 15:17:32] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 15:19:33] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 15:21:34] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 15:23:35] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 15:25:37] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 15:27:39] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 15:29:40] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 15:31:41] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 15:33:42] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 15:35:43] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 15:37:44] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 15:39:45] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 15:41:46] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 15:43:48] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 15:45:49] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 15:47:50] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 15:49:52] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 15:51:53] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 15:53:54] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 15:55:55] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 15:57:56] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 15:59:58] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 16:01:59] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 16:04:00] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 16:06:01] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 16:08:02] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 16:10:03] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 16:12:07] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 16:14:08] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 16:16:10] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 16:18:16] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 16:20:18] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 16:22:19] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 16:24:20] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 16:26:21] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 16:28:23] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 16:30:24] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 16:32:25] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 16:34:26] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 16:36:28] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 16:38:29] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 16:40:30] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 16:42:31] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 16:44:32] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 16:46:33] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 16:48:34] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 16:50:35] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 16:52:37] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 16:54:38] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 16:56:39] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 16:58:40] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 17:00:41] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 17:02:42] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 17:04:43] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 17:06:44] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 17:08:46] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 17:10:47] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 17:12:49] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 17:14:50] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 17:16:51] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 17:18:52] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 17:20:54] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 17:22:56] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 17:24:57] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 17:26:59] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 17:29:00] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 17:31:01] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 17:33:03] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 17:35:08] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 17:37:09] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 17:39:11] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 17:41:12] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 17:43:13] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 17:45:15] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 17:47:17] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 17:49:18] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 17:51:19] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 17:53:20] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 17:55:21] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 17:57:22] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 17:59:23] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 18:01:29] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 18:03:32] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 18:05:33] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 18:07:34] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 18:09:35] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 18:11:36] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 18:13:38] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 18:15:39] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 18:17:40] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 18:19:41] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 18:21:42] Error while adding coins to: 76561198061470726 Shares:2
+
+[CET 2018:01:07 18:23:44] Error while adding coins to: 76561198061470726 Shares:2
+

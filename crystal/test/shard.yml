@@ -1,0 +1,21 @@
+name: test
+version: 0.1.0
+
+# authors:
+#   - name <email@example.com>
+
+# description: |
+#   Short description of test
+
+dependencies:
+#   pg:
+#     github: will/crystal-pg
+#     version: "~> 0.5"
+  event_emitter:
+    github: hugoabonizio/event_emitter.cr
+
+# development_dependencies:
+#   webmock:
+#     github: manastech/webmock.cr
+
+# license: MIT

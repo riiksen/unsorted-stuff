@@ -1,0 +1,120 @@
+Summary for /www/javadecompilers/app/public/data/14.11.17/ed8a62387b24e97ee79cbe92f24906d3/Resilience.jar
+Decompiled with CFR 0_123
+
+
+com.krispdev.resilience.account.GuiPasswordBox
+----------------------------
+
+func_146197_a(int int boolean )
+  Unable to fully structure code
+
+
+com.krispdev.resilience.gui.objects.ResilienceSlot
+----------------------------
+
+func_148128_a(int int float )
+  Unable to fully structure code
+
+
+com.krispdev.resilience.gui.objects.other.GuiCustomFontField
+----------------------------
+
+func_146197_a(int int boolean )
+  Unable to fully structure code
+
+
+net.minecraft.client.Minecraft
+----------------------------
+
+run()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+runTick()
+  Unable to fully structure code
+
+
+net.minecraft.client.gui.GuiScreenSelectLocation
+----------------------------
+
+func_148350_a(int int float )
+  Unable to fully structure code
+
+
+net.minecraft.client.gui.GuiSlot
+----------------------------
+
+func_148128_a(int int float )
+  Unable to fully structure code
+
+
+net.minecraft.client.gui.GuiTextField
+----------------------------
+
+func_146197_a(int int boolean )
+  Unable to fully structure code
+
+
+net.minecraft.client.gui.SelectionListBase
+----------------------------
+
+func_148446_a(int int float )
+  Unable to fully structure code
+
+
+net.minecraft.client.renderer.RenderGlobal
+----------------------------
+
+renderEntities(net.minecraft.entity.EntityLivingBase net.minecraft.client.renderer.culling.ICamera float )
+  Unable to fully structure code
+sortAndRender(net.minecraft.entity.EntityLivingBase int double )
+  Unable to fully structure code
+
+
+net.minecraft.command.server.CommandScoreboard
+----------------------------
+
+func_147190_h(net.minecraft.command.ICommandSender java.lang.String[] int )
+  Unable to fully structure code
+func_147199_i(net.minecraft.command.ICommandSender java.lang.String[] int )
+  Unable to fully structure code
+
+
+net.minecraft.item.crafting.CraftingManager
+----------------------------
+
+addRecipe(net.minecraft.item.ItemStack java.lang.Object[] )
+  Unable to fully structure code
+
+
+net.minecraft.nbt.JsonToNBT
+----------------------------
+
+func_150489_a()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[TRYBLOCK]], but top level block is 3[CATCHBLOCK]
+
+
+net.minecraft.server.MinecraftServer
+----------------------------
+
+run()
+  Unable to fully structure code
+
+
+net.minecraft.src.CustomColorizer
+----------------------------
+
+readCustomPalettes(java.util.Properties java.lang.String )
+  Unable to fully structure code
+
+
+net.minecraft.src.WrUpdaterThreaded
+----------------------------
+
+updateRenderers(net.minecraft.client.renderer.RenderGlobal net.minecraft.entity.EntityLivingBase boolean )
+  Unable to fully structure code
+
+
+net.minecraft.util.HttpUtil
+----------------------------
+
+run()
+  Unable to fully structure code

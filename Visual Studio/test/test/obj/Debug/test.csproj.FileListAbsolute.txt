@@ -1,0 +1,9 @@
+D:\Pliki\Visual Studio\test\test\bin\Debug\test.exe.config
+D:\Pliki\Visual Studio\test\test\bin\Debug\test.exe
+D:\Pliki\Visual Studio\test\test\bin\Debug\test.pdb
+D:\Pliki\Visual Studio\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\Pliki\Visual Studio\test\test\obj\Debug\test.Form1.resources
+D:\Pliki\Visual Studio\test\test\obj\Debug\test.Properties.Resources.resources
+D:\Pliki\Visual Studio\test\test\obj\Debug\test.csproj.GenerateResource.Cache
+D:\Pliki\Visual Studio\test\test\obj\Debug\test.exe
+D:\Pliki\Visual Studio\test\test\obj\Debug\test.pdb

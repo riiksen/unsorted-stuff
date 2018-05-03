@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackdoorClient", "BackdoorClient\BackdoorClient.csproj", "{F4E1D314-0A0C-4276-857E-52AA1A694162}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackdoorServer", "BackdoorServer\BackdoorServer.csproj", "{8A2E5E8F-0C48-452E-9691-EFDA03470A9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4E1D314-0A0C-4276-857E-52AA1A694162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E1D314-0A0C-4276-857E-52AA1A694162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E1D314-0A0C-4276-857E-52AA1A694162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E1D314-0A0C-4276-857E-52AA1A694162}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A2E5E8F-0C48-452E-9691-EFDA03470A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A2E5E8F-0C48-452E-9691-EFDA03470A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A2E5E8F-0C48-452E-9691-EFDA03470A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A2E5E8F-0C48-452E-9691-EFDA03470A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

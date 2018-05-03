@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+[remote "origin"]
+	url = https://github.com/hugoabonizio/event_emitter.cr.git
+	fetch = +refs/*:refs/*
+	mirror = true

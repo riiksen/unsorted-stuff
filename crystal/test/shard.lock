@@ -1,0 +1,6 @@
+version: 1.0
+shards:
+  event_emitter:
+    github: hugoabonizio/event_emitter.cr
+    commit: 2229e41daaa5c8a81dd5789a9d41fc598a45b0ec
+

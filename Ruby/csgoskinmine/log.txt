@@ -1,0 +1,108 @@
+//Config.php
+<?php
+$crypto_wallet = "etnk2GBQgxeJfMVhigwNg6AEDFtYeGhv4gwWMfbM3jyyZLtzf2GQZAxLhdFcENhyeu1SiAVMTERhqeiQJnyGiq7x7sFVq2PXGB";
+$fee = 0.20;
+$refferal_fee = 0.02;
+$dailybonus = 2000;
+$refferal_code_value = 20000;
+$sharedifficulty = 120001;
+$nicknamebonus = 0.02;
+$host = "localhost";
+$db_user = "root";
+$db_password = "";
+$db_name = "csgo";
+?>
+//Daemon.php
+<?php
+declare(TICKS = 1);
+if(!file_exists("/www/status")) {
+	file_put_contents("/www/status","");
+}
+
+require_once "/www/csgoskinmine.com/public_html/config.php";
+function shutdown(){
+	logtofile("Daemon stopped.");
+	if (file_exists("www/csgoskinmine.com/public_html/status")){
+		unlink("www/csgoskinmine.com/public_html/status");
+	}
+}
+pcntl_signal(SIGTERM,"shutdown");
+register_shutdown_function("shutdown");
+if(!file_exists("log.txt")){
+	file_put_contents("log.txt","");
+}
+	
+logtofile("Daemon started.");
+	
+$conn = @new mysqli($host,$db_user,$db_password,$db_name);
+if($conn->connect_errno!=0) {
+	echo "Error: ".$conn->connect_errno;
+	exit;
+} else {
+	$workers = file_get_contents("https://api.nanopool.org/v1/etn/workers/".$crypto_wallet);
+	$workers = json_decode($workers);
+	if($workers->status = false) {
+		logtofile("nanopool api error , status = false");
+	} else {
+		foreach($workers->data as $data) {
+		$shares = file_get_contents("https://api.nanopool.org/v1/etn/shareratehistory/".$crypto_wallet."/".$data->id);
+		$shares = json_decode($shares);
+		if($shares->status = false) {
+
+		} else {
+			$user = $conn->query("SELECT steamid,name,refferal_used,lastshare FROM users where steamid = '".$data->id."'") or die ("Error while getting user from db");
+			if($user->num_rows>0) {
+				$user_arr = $user->fetch_assoc();
+				if(array_pop($shares->data)->date>$user_arr['lastshare']) {
+					$numberofshares = 0;
+					foreach($shares->data as $data) {
+						if($data->date>$user_arr['lastshare']) {
+							$fixednumberofshares = 0;
+							if($data->shares == 2) {
+								$fixednumberofshare = round($data->shares/2);
+							} else if($data->shares <= 8) {
+								$fixednumberofshares = round($data->shares/4);
+							} else {
+								$fixednumberofshare = $data->shares;
+							}
+							$numberofshares += $fixednumberofshare;
+						}
+					}
+					$coins = json_decode(file_get_contents("http://whattomine.com/coins/213.json"));
+
+					$cryptoprice = json_decode(file_get_contents("https://api.nanopool.org/v1/etn/prices"));
+					if($cryptoprice->status = true) {
+						$share = round($sharedifficulty/$coins->difficulty24 * $coins->block_reward24 * $cryptoprice->data->price_usd*100000);
+						$totalshare = ($numberofshares - $user_arr['lastshare']) * round($share*(1.00-$fee));
+						$bonus = 0;
+						if(strpos(strtolower($user_arr['name']),"csgoskinmine.com")!==false) {
+							$bonus = round($totalshare*0.02);
+						}
+						$totalshare += $bonus;
+						if($user_arr['refferal_used']!="") {
+							$sql = "UPDATE users SET lastshare = ".array_pop($shares->data)->date." , coins = ".$totalshare." WHERE steamid = '".$user_arr['steamid']."';";
+							$sql .= "UPDATE users SET refferal_available = refferal_available + ".round($totalshare*$refferal_fee) .", refferal_total = refferal_total + ".round($totalshare*$refferal_fee) ." WHERE steamid = '".$user_arr['refferal_used']."';";
+							if($conn->multi_query($sql) === TRUE) {
+								lotgofile("Successfly added ".$totalshare." to: ".$user_arr['steamid'].", number of shares: "+ $numberofshares);
+							} else {
+								logtofile("Error while adding coins to: ".$user_arr['steamid']." Shares:".$numberofshares);
+							}
+						} else {
+							$conn->query("UPDATE users SET lastshare = ".array_pop($shares->data)->date." , coins = coins + ".$totalshare." WHERE steamid = '".$data->id."';") or die("ERROR WITH QUERY WHILE ADDING ".$totalshare." COINS TO: ".$data->id);
+						}
+						} else {
+							logtofile("Electroneum (api nanopool) status: false!");
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+function logtofile($msg) {
+	$current = file_get_contents("log.txt");
+	$current .= "[".date("T")." ".Date("Y:m:d H:i:s")."] ".$msg."\n";
+	file_put_contents("log.txt",$current.PHP_EOL);
+}
+?>

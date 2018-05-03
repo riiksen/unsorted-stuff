@@ -1,0 +1,9 @@
+c:\users\michał\documents\visual studio 2015\Projects\Formstest\Formstest\bin\Debug\Formstest.exe.config
+c:\users\michał\documents\visual studio 2015\Projects\Formstest\Formstest\bin\Debug\Formstest.exe
+c:\users\michał\documents\visual studio 2015\Projects\Formstest\Formstest\bin\Debug\Formstest.pdb
+c:\users\michał\documents\visual studio 2015\Projects\Formstest\Formstest\obj\Debug\Formstest.csprojResolveAssemblyReference.cache
+c:\users\michał\documents\visual studio 2015\Projects\Formstest\Formstest\obj\Debug\Formstest.Form1.resources
+c:\users\michał\documents\visual studio 2015\Projects\Formstest\Formstest\obj\Debug\Formstest.Properties.Resources.resources
+c:\users\michał\documents\visual studio 2015\Projects\Formstest\Formstest\obj\Debug\Formstest.csproj.GenerateResource.Cache
+c:\users\michał\documents\visual studio 2015\Projects\Formstest\Formstest\obj\Debug\Formstest.exe
+c:\users\michał\documents\visual studio 2015\Projects\Formstest\Formstest\obj\Debug\Formstest.pdb

@@ -1,0 +1,15 @@
+D:\Pliki\Visual Studio\Android test\Android test\bin\Debug\Android test.dll
+D:\Pliki\Visual Studio\Android test\Android test\bin\Debug\Android test.pdb
+D:\Pliki\Visual Studio\Android test\Android test\bin\Debug\Android_test.Android_test.apk
+D:\Pliki\Visual Studio\Android test\Android test\bin\Debug\Android_test.Android_test-Signed.apk
+D:\Pliki\Visual Studio\Android test\Android test\obj\Debug\Android test.csprojResolveAssemblyReference.cache
+D:\Pliki\Visual Studio\Android test\Android test\obj\Debug\Android test.dll
+D:\Pliki\Visual Studio\Android test\Android test\obj\Debug\Android test.pdb
+D:\Pliki\Visual Studio\Android test\Android test\obj\Debug\android\bin\Android_test.Android_test.apk
+D:\Pliki\Visual Studio\Android test\Android test\obj\Debug\res\layout\main.xml
+D:\Pliki\Visual Studio\Android test\Android test\obj\Debug\res\values\strings.xml
+D:\Pliki\Visual Studio\Android test\Android test\obj\Debug\res\drawable\icon.png
+D:\Pliki\Visual Studio\Android test\Android test\obj\Debug\R.cs.flag
+D:\Pliki\Visual Studio\Android test\Android test\obj\Debug\uploadflags.txt
+D:\Pliki\Visual Studio\Android test\Android test\obj\Debug\Android test.dll.mdb
+D:\Pliki\Visual Studio\Android test\Android test\bin\Debug\Android test.dll.mdb

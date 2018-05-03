@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+	<Payload adobeCode="{PPRO-11.1.2-64-ADBEADBEADBEADBEADBEA}">
+		<Data key="AMTConfigPath">D:\bin\Adobe Premiere Pro CC 2017\AMT\application.xml</Data><Data key="APPLICATION_CUSTOMIZATION_DATA">SuppressSerialWF</Data><Data key="BridgeTalkCode">/adobe/bridgetalk/premierepro-11.0</Data><Data key="DefaultDriverPayload">{PPRO-11.1.2-64-ADBEADBEADBEADBEADBEA}</Data><Data key="InstallDate">1503321896</Data><Data key="LicensingCode">V7{}PremierePro-11-Win-GM</Data><Data key="ProductVersion">11.1.2</Data><Data key="SAPCode">PPRO</Data><Data key="defaultAdobeCode">{PPRO-11.1.2-64-ADBEADBEADBEADBEADBEA}</Data><Data key="driverAMTConfigPath">D:\bin\Adobe Premiere Pro CC 2017\AMT\application.xml</Data><Data key="driverLEID">V7{}PremierePro-11-Win-GM</Data><Data key="installedLanguages">en_US</Data></Payload>
+	<Other adobeCode="V7{}PremierePro-11-Win-GM">
+		<!-- Note: This is a win-only debug serial -->
+		<Data key="EPIC_APP">Adobe Premiere Pro CC 2017</Data><Data key="EPIC_APP_132">Adobe Premiere Pro CC 2017</Data><Data key="PayloadCode">{PPRO-11.1.2-64-ADBEADBEADBEADBEADBEA}</Data><Data key="TrialSerialNumber">976087031554870760651223</Data></Other>
+	<Other adobeCode="/adobe/bridgetalk/premierepro-11.0">
+		<Data key="Specifier">premierepro-11.0</Data>
+		<Data key="ExecutableBasename">Adobe Premiere Pro</Data>
+		<Data key="DisplayName">Adobe Premiere Pro CC 2017</Data>
+		<Data key="SupportsESTK">true</Data>
+		<Data key="OMVDictionary">dynamic</Data>
+		<!-- Note: This is a win-specific datum -->
+		<Data key="WindowClassName">Premiere Pro</Data>
+	</Other>
+</Configuration>

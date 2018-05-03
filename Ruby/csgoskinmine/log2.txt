@@ -1,0 +1,127 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.0  37908  5904 ?        Ss   Jan02   0:05 /sbin/init
+root         2  0.0  0.0      0     0 ?        S    Jan02   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        S    Jan02   0:00 [ksoftirqd/0]
+root         5  0.0  0.0      0     0 ?        S<   Jan02   0:00 [kworker/0:0H]
+root         7  0.0  0.0      0     0 ?        S    Jan02   0:02 [rcu_sched]
+root         8  0.0  0.0      0     0 ?        S    Jan02   0:00 [rcu_bh]
+root         9  0.0  0.0      0     0 ?        S    Jan02   0:00 [migration/0]
+root        10  0.0  0.0      0     0 ?        S    Jan02   0:00 [watchdog/0]
+root        11  0.0  0.0      0     0 ?        S    Jan02   0:00 [watchdog/1]
+root        12  0.0  0.0      0     0 ?        S    Jan02   0:00 [migration/1]
+root        13  0.0  0.0      0     0 ?        S    Jan02   0:00 [ksoftirqd/1]
+root        15  0.0  0.0      0     0 ?        S<   Jan02   0:00 [kworker/1:0H]
+root        16  0.0  0.0      0     0 ?        S    Jan02   0:00 [kdevtmpfs]
+root        17  0.0  0.0      0     0 ?        S<   Jan02   0:00 [netns]
+root        18  0.0  0.0      0     0 ?        S<   Jan02   0:00 [perf]
+root        19  0.0  0.0      0     0 ?        S    Jan02   0:00 [khungtaskd]
+root        20  0.0  0.0      0     0 ?        S<   Jan02   0:00 [writeback]
+root        21  0.0  0.0      0     0 ?        SN   Jan02   0:00 [ksmd]
+root        22  0.0  0.0      0     0 ?        SN   Jan02   0:00 [khugepaged]
+root        23  0.0  0.0      0     0 ?        S<   Jan02   0:00 [crypto]
+root        24  0.0  0.0      0     0 ?        S<   Jan02   0:00 [kintegrityd]
+root        25  0.0  0.0      0     0 ?        S<   Jan02   0:00 [bioset]
+root        26  0.0  0.0      0     0 ?        S<   Jan02   0:00 [kblockd]
+root        27  0.0  0.0      0     0 ?        S<   Jan02   0:00 [ata_sff]
+root        28  0.0  0.0      0     0 ?        S<   Jan02   0:00 [md]
+root        29  0.0  0.0      0     0 ?        S<   Jan02   0:00 [devfreq_wq]
+root        33  0.0  0.0      0     0 ?        S    Jan02   0:00 [kswapd0]
+root        34  0.0  0.0      0     0 ?        S<   Jan02   0:00 [vmstat]
+root        35  0.0  0.0      0     0 ?        S    Jan02   0:00 [fsnotify_mark]
+root        36  0.0  0.0      0     0 ?        S    Jan02   0:00 [ecryptfs-kthrea]
+root        52  0.0  0.0      0     0 ?        S<   Jan02   0:00 [kthrotld]
+root        53  0.0  0.0      0     0 ?        S<   Jan02   0:00 [acpi_thermal_pm]
+root        54  0.0  0.0      0     0 ?        S    Jan02   0:06 [vballoon]
+root        55  0.0  0.0      0     0 ?        S<   Jan02   0:00 [bioset]
+root        56  0.0  0.0      0     0 ?        S<   Jan02   0:00 [bioset]
+root        57  0.0  0.0      0     0 ?        S<   Jan02   0:00 [bioset]
+root        58  0.0  0.0      0     0 ?        S<   Jan02   0:00 [bioset]
+root        59  0.0  0.0      0     0 ?        S<   Jan02   0:00 [bioset]
+root        60  0.0  0.0      0     0 ?        S<   Jan02   0:00 [bioset]
+root        61  0.0  0.0      0     0 ?        S<   Jan02   0:00 [bioset]
+root        62  0.0  0.0      0     0 ?        S<   Jan02   0:00 [bioset]
+root        66  0.0  0.0      0     0 ?        S<   Jan02   0:00 [ipv6_addrconf]
+root        79  0.0  0.0      0     0 ?        S<   Jan02   0:00 [deferwq]
+root        80  0.0  0.0      0     0 ?        S<   Jan02   0:00 [charger_manager]
+root       119  0.0  0.0      0     0 ?        S    Jan02   0:00 [scsi_eh_0]
+root       120  0.0  0.0      0     0 ?        S<   Jan02   0:00 [scsi_tmf_0]
+root       121  0.0  0.0      0     0 ?        S<   Jan02   0:00 [bioset]
+root       122  0.0  0.0      0     0 ?        S<   Jan02   0:00 [kpsmoused]
+root       126  0.0  0.0      0     0 ?        S    Jan02   0:00 [scsi_eh_1]
+root       127  0.0  0.0      0     0 ?        S<   Jan02   0:00 [scsi_tmf_1]
+root       129  0.0  0.0      0     0 ?        S    Jan02   0:00 [scsi_eh_2]
+root       260  0.0  0.0      0     0 ?        S<   Jan02   0:00 [scsi_tmf_2]
+root       263  0.0  0.0      0     0 ?        S    Jan02   0:00 [scsi_eh_3]
+root       265  0.0  0.0      0     0 ?        S<   Jan02   0:00 [scsi_tmf_3]
+root       275  0.0  0.0      0     0 ?        S    Jan02   0:00 [scsi_eh_4]
+root       277  0.0  0.0      0     0 ?        S<   Jan02   0:00 [scsi_tmf_4]
+root       279  0.0  0.0      0     0 ?        S    Jan02   0:00 [scsi_eh_5]
+root       280  0.0  0.0      0     0 ?        S<   Jan02   0:00 [scsi_tmf_5]
+root       287  0.0  0.0      0     0 ?        S    Jan02   0:00 [scsi_eh_6]
+root       288  0.0  0.0      0     0 ?        S<   Jan02   0:00 [scsi_tmf_6]
+root       480  0.0  0.0      0     0 ?        S<   Jan02   0:00 [raid5wq]
+root       510  0.0  0.0      0     0 ?        S<   Jan02   0:00 [bioset]
+root       534  0.0  0.0      0     0 ?        S    Jan02   0:01 [jbd2/sda1-8]
+root       535  0.0  0.0      0     0 ?        S<   Jan02   0:00 [ext4-rsv-conver]
+root       599  0.0  0.0      0     0 ?        S<   Jan02   0:00 [kworker/0:1H]
+root       615  0.0  0.0      0     0 ?        S<   Jan02   0:00 [iscsi_eh]
+root       623  0.0  0.0  35276  5868 ?        Ss   Jan02   0:09 /lib/systemd/systemd-journald
+root       625  0.0  0.0      0     0 ?        S<   Jan02   0:00 [ib_addr]
+root       631  0.0  0.0      0     0 ?        S<   Jan02   0:00 [ib_mcast]
+root       632  0.0  0.0      0     0 ?        S<   Jan02   0:00 [ib_nl_sa_wq]
+root       633  0.0  0.0      0     0 ?        S<   Jan02   0:00 [ib_cm]
+root       635  0.0  0.0      0     0 ?        S<   Jan02   0:00 [iw_cm_wq]
+root       637  0.0  0.0      0     0 ?        S<   Jan02   0:00 [rdma_cm]
+root       638  0.0  0.0      0     0 ?        S    Jan02   0:00 [kauditd]
+root       707  0.0  0.0  94772  1480 ?        Ss   Jan02   0:00 /sbin/lvmetad -f
+root       763  0.0  0.0  42552  3712 ?        Ss   Jan02   0:00 /lib/systemd/systemd-udevd
+systemd+   884  0.0  0.0 100324  2556 ?        Ssl  Jan02   0:00 /lib/systemd/systemd-timesyncd
+root      1236  0.0  0.0      0     0 ?        S<   Jan02   0:00 [kworker/1:1H]
+root      1237  0.0  0.0  16120  2764 ?        Ss   Jan02   0:00 /sbin/dhclient -1 -v -pf /run/dhclient.enp1s0.pid -lf /var/lib/dhcp/dhclient.enp1s0.leases -I -df /var/lib/dhcp/dhclient6.enp1s0.leases enp1s0
+root      1358  0.0  0.0   5224   156 ?        Ss   Jan02   0:02 /sbin/iscsid
+root      1359  0.0  0.0   5724  3516 ?        S<Ls Jan02   0:10 /sbin/iscsid
+root      1363  0.0  0.0  28548  2904 ?        Ss   Jan02   0:00 /lib/systemd/systemd-logind
+root      1366  0.0  0.0   4400   720 ?        Ss   Jan02   0:00 /usr/sbin/acpid
+root      1374  0.0  0.0 274488  6012 ?        Ssl  Jan02   0:04 /usr/lib/accountsservice/accounts-daemon
+syslog    1379  0.0  0.0 256396  3400 ?        Ssl  Jan02   0:02 /usr/sbin/rsyslogd -n
+root      1385  0.0  0.0  65520  6088 ?        Ss   Jan02   0:02 /usr/sbin/sshd -D
+message+  1391  0.0  0.0  42892  3732 ?        Ss   Jan02   0:01 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+root      1411  0.0  0.0 605056  3860 ?        Ssl  Jan02   0:00 /usr/bin/lxcfs /var/lib/lxcfs/
+daemon    1415  0.0  0.0  26044  2100 ?        Ss   Jan02   0:00 /usr/sbin/atd -f
+root      1429  0.0  0.2 157604 21756 ?        Ssl  Jan02   0:03 /usr/lib/snapd/snapd
+root      1432  0.0  0.0  27728  2920 ?        Ss   Jan02   0:00 /usr/sbin/cron -f
+mysql     1438  0.0  2.1 1445712 176768 ?      Ssl  Jan02   0:29 /usr/sbin/mysqld
+root      1467  0.0  0.0  13376   168 ?        Ss   Jan02   0:00 /sbin/mdadm --monitor --pid-file /run/mdadm/monitor.pid --daemonise --scan --syslog
+root      1479  0.0  0.0 277180  5920 ?        Ssl  Jan02   0:00 /usr/lib/policykit-1/polkitd --no-debug
+root      1527  0.0  0.0  21976  2856 ?        Ss   Jan02   0:00 /usr/sbin/qemu-ga --daemonize -F/etc/qemu-ga.sh -m virtio-serial -p /dev/virtio-ports/org.qemu.guest_agent.0
+root      1533  0.0  0.0  19600   276 ?        Ss   Jan02   0:02 /usr/sbin/irqbalance --pid=/var/run/irqbalance.pid
+root      1541  0.0  0.0  14660  1812 tty1     Ss+  Jan02   0:00 /sbin/agetty --noclear tty1 linux
+root      1542  0.0  0.0  14476  2180 ttyS0    Ss+  Jan02   0:00 /sbin/agetty --keep-baud 115200 38400 9600 ttyS0 vt220
+root      2574  0.0  0.0 125708  1524 ?        Ss   Jan02   0:00 nginx: master process /usr/sbin/nginx -g daemon on; master_process on;
+www-data  2575  0.0  0.0 125708  3228 ?        S    Jan02   0:06 nginx: worker process
+www-data  2576  0.0  0.0 125708  4924 ?        R    Jan02   0:00 nginx: worker process
+root      2729  0.0  0.0  65408  4464 ?        Ss   Jan02   0:00 /usr/lib/postfix/sbin/master
+postfix   2888  0.0  0.0  67644  4488 ?        S    Jan02   0:00 qmgr -l -t unix -u
+root     14385  0.0  0.0      0     0 ?        S    18:28   0:00 [kworker/1:0]
+root     15305  0.0  0.0      0     0 ?        S    19:57   0:00 [kworker/0:0]
+postfix  15530  0.0  0.0  67476  4380 ?        S    20:58   0:00 pickup -l -t unix -u -c
+root     15547  0.0  0.0  95400  6868 ?        Ss   21:00   0:00 sshd: root@notty
+root     15549  0.0  0.0  36804  4528 ?        Ss   21:00   0:00 /lib/systemd/systemd --user
+root     15551  0.0  0.0  61360  2092 ?        S    21:00   0:00 (sd-pam)
+root     15611  0.0  0.0  19816  3428 ?        Ss   21:00   0:00 -bash
+root     15651  0.0  0.0  95532  6692 ?        Ss   21:02   0:00 sshd: root@notty
+root     15684  0.0  0.0  19816  3432 ?        Ss   21:02   0:00 -bash
+root     16328  0.0  0.0      0     0 ?        S    21:57   0:00 [kworker/u4:2]
+root     16974  0.0  0.0      0     0 ?        S    22:08   0:00 [kworker/0:2]
+root     16976  0.0  0.3 284752 28744 ?        Ss   22:08   0:00 php-fpm: master process (/etc/php/7.0/fpm/php-fpm.conf)
+www-data 16979  0.0  0.2 287412 24468 ?        S    22:08   0:00 php-fpm: pool www
+www-data 16980  0.0  0.3 289468 26020 ?        S    22:08   0:00 php-fpm: pool www
+root     17239  0.0  0.0      0     0 ?        S    22:27   0:00 [kworker/1:2]
+root     17240  0.2  0.0  95400  6828 ?        Ss   22:27   0:01 sshd: root@pts/0
+root     17297  0.0  0.0  21304  5064 pts/0    Ss+  22:27   0:00 -bash
+root     17313  0.0  0.0      0     0 ?        S    22:29   0:00 [kworker/u4:0]
+root     17426  0.0  0.2 204016 19236 pts/0    S    22:35   0:00 php test.php
+www-data 17451  0.0  0.0   4508   748 ?        S    22:37   0:00 sh -c ./ev8 "ps aux"
+root     17452  0.0  0.0   4224   664 ?        S    22:37   0:00 ./ev8 ps aux
+www-data 17453  0.0  0.0   4508   716 ?        S    22:37   0:00 sh -c ps aux
+www-data 17454  0.0  0.0  34424  2828 ?        R    22:37   0:00 ps aux

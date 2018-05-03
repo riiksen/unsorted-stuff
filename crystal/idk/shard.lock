@@ -1,0 +1,6 @@
+version: 1.0
+shards:
+  icr:
+    github: crystal-community/icr
+    commit: 508f965ea8b9117077faf5ce5476518c083d0b89
+

@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9f18558f-2c80-4def-b9f9-19d036d0c885}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{027eb1da-6a08-49f6-adf9-df64f0aad516}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{44afa857-6b58-4f77-9c2e-4d5c6a3ee5bd}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="FBISocket.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="File Manager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FileSocket.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Keylog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MainGui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PacketSniff.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ParseData.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Screen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ServerManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WebCam.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Xor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Information.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MyJPEGHandler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PacketHead.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Settings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="21_ico_1.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="arrow_down.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="arrow_up.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ArrowBack.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="CD.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Default Document_ico_3.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Disk.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="display-32x32.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="film.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Folder.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Hard Drive_ico_5.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="image.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="NetWork.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="progman_exe_Ico22_ico_Ico1.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Project3.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Resource.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="default1.bin">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+</Project>
